@@ -1,0 +1,7 @@
+{
+    "name": "React Employee Directory",
+    "description": "Sample App with React and Node.js",
+    "repository": "https://github.com/AKKI199514/Directory-listing-with-React-and-Node-JS",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["node", "express", "react", "directory"]
+}
